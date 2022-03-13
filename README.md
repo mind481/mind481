@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![image](https://user-images.githubusercontent.com/71718190/158054612-4f14203a-3a1c-4473-9b75-0e9edda215f1.png)
 <!--
 **mind481/mind481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
